@@ -72,4 +72,6 @@ Our project utilizes the CDC's `YRBS_2007.csv` dataset, strictly focusing on sev
   女性青少年面臨極高的基準風險溢價。在承受同等創傷的條件下，女性考慮自殺的勝算幾乎是男性的 **2.0 倍**，凸顯了青春期極度嚴峻的情感內化脆弱性。
 
 * **Policy Recommendation / 核心政策建議:**
-  Public health
+  Public healthand educational sectors must shift toward trauma-informed protocols. Given the OR of 6.0 for dual exposure, counselors must actively screen for overlapping victimization rather than treating violent incidents in isolation. Furthermore, gender-sensitive support systems must be deployed immediately to address the disproportionate burden on young women.
+  
+  公衛與教育部門必須轉向「創傷知情（Trauma-informed）」的處理機制。鑑於雙重創傷極高的勝算比（$OR \approx 6.0$），輔導系統必須主動篩檢潛在的重疊受害史，傳統單一事件單一處理的消極思維。同時，必須立即部署具備性別敏感度（Gender-sensitive）的支持系統，以緩解年輕女性不成比例的心理與社會污名負擔。
