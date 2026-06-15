@@ -1,0 +1,17 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:         Suicide_Binary   No. Observations:                13737
+Model:                          Logit   Df Residuals:                    13733
+Method:                           MLE   Df Model:                            3
+Date:                Mon, 15 Jun 2026   Pseudo R-squ.:                 0.06140
+Time:                        23:32:29   Log-Likelihood:                -5457.5
+converged:                       True   LL-Null:                       -5814.5
+Covariance Type:            nonrobust   LLR p-value:                1.964e-154
+============================================================================================================================
+                                                               coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------------------------------------
+Intercept                                                   -2.3898      0.043    -55.662      0.000      -2.474      -2.306
+C(Trauma_Level, Treatment('No Trauma'))[T.Both Traumas]      1.8752      0.102     18.449      0.000       1.676       2.074
+C(Trauma_Level, Treatment('No Trauma'))[T.Either Trauma]     0.9734      0.061     15.876      0.000       0.853       1.094
+C(Sex_Label, Treatment('Male'))[T.Female]                    0.7060      0.051     13.864      0.000       0.606       0.806
+============================================================================================================================

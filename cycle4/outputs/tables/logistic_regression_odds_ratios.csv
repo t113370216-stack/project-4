@@ -1,0 +1,5 @@
+,Odds Ratio (OR),Lower CI (95%),Upper CI (95%),P-value
+Intercept,0.092,0.084,0.100,0.000e+00
+"C(Trauma_Level, Treatment('No Trauma'))[T.Both Traumas]",6.522,5.344,7.959,5.322e-76
+"C(Trauma_Level, Treatment('No Trauma'))[T.Either Trauma]",2.647,2.347,2.985,9.269e-57
+"C(Sex_Label, Treatment('Male'))[T.Female]",2.026,1.833,2.238,1.041e-43
